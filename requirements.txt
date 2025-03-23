@@ -1,0 +1,24 @@
+# Core scientific libraries
+numpy
+pandas
+matplotlib
+
+# Medical image I/O
+nibabel         # For .nii and .nii.gz files
+SimpleITK       # For resampling and advanced medical image processing
+
+# Jupyter Notebook support
+jupyter
+ipykernel
+
+# Image processing and visualization
+scikit-image
+opencv-python
+
+# (Optional) Deep learning tools (for model training later)
+monai           # Medical image-specific deep learning framework
+torch
+torchvision
+
+# Utilities (optional but helpful)
+tqdm            # Progress bars
